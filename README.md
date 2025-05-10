@@ -11,4 +11,4 @@ Personalize marketing strategies
 
 Improve customer retention and loyalty
 
-Identify high-value customers
+Identify high-value customers.
